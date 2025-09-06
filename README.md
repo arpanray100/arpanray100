@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ARPAN RAY</h1>
-<h3 align="center">A passionate frontend developer and also a software developer from India</h3>
+<h3 align="center">A passionate Web developer and also a software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpanray100&label=Profile%20views&color=0e75b6&style=flat" alt="arpanray100" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/arpanray100](https://github.com/arpanray100)
 
-- 💬 Ask me about **html,css,c++,c**
+- 💬 Ask me about **html,css,c++,c,Java**
 
 - 📫 How to reach me **rayarpan00@gmail.com**
 
